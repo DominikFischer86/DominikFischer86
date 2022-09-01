@@ -5,10 +5,10 @@ Three years later after successfully graduating I moved to Berlin (Germany) to w
 
 Early 2020 I decided to move on towards Frontend Engineering and am doing so ever since in Düsseldorf (Germany) at **Compeon GmbH**, where I work mostly remote from home.
 
-My main focus is:
+# My main focus is:
 - Javascript (React)
 
-Relevant skills from all work experiences and side projects include:
+# Relevant skills from all work experiences and side projects include:
 - HTML5
 - CSS3
 - mongoDB
