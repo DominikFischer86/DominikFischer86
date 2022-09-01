@@ -1,11 +1,12 @@
 ### Hello Github World 👋
 
-My name is Dominik and I've been in the web industry since 2012, when I started my apprenticeship for media design.
-Three years later after successfully graduating I moved to Berlin (Germany) to work as a webdesigner in a Startup called Websitebutler GmbH, which later commercially released the tool Sitejet that had been used to create the Websites all the years up to that point.
-Early 2020 I decided to move on towards Frontend Engineering and am doing so ever since in Düsseldorf (Germany) at Compeon.
+My name is Dominik and I've been in the web industry since 2013, when I started my apprenticeship for media design.
+Three years later after successfully graduating I moved to Berlin (Germany) to work as a webdesigner in a startup called **Websitebutler GmbH**, which later commercially released the tool **Sitejet** that had been used to create the websites all the years up to that point.
+
+Early 2020 I decided to move on towards Frontend Engineering and am doing so ever since in Düsseldorf (Germany) at **Compeon GmbH**, where I work mostly remote from home.
 
 My main focus is:
-- Javascript/React
+- Javascript (React)
 
 Relevant skills from all work experiences and side projects include:
 - HTML5
