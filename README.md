@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hello Github World 👋
+
+My name is Dominik and I've been in the web industry since 2012, when I started my apprenticeship for media design.
+Three years later after successfully graduating I moved to Berlin (Germany) to work as a webdesigner in a Startup called Websitebutler GmbH, which later commercially released the tool Sitejet that had been used to create the Websites all the years up to that point.
+Early 2020 I decided to move on towards Frontend Engineering and am doing so ever since in Düsseldorf (Germany) at Compeon.
+
+My main focus is:
+- Javascript/React
+
+Relevant skills from all work experiences and side projects include:
+- HTML5
+- CSS3
+- mongoDB
+- Ruby on Rails
+
+What I enjoy most is learning new things and applying the knowledge into apps, that work mostly as they're supposed to do. And probably tinkering with details and cool stuff ✨ a bit too much.
 
 <!--
 **DominikFischer86/DominikFischer86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
