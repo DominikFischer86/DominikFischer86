@@ -8,7 +8,7 @@ Early 2020 I decided to move on towards Frontend Engineering and am doing so eve
 ## My main focus is:
 - Javascript (React)
 
-## Relevant skills from all work experiences and side projects include (in descending order of experience):
+### Relevant skills from all work experiences and side projects include (in descending order of experience):
 - CSS3
 - HTML5
 - Typescript
@@ -16,7 +16,8 @@ Early 2020 I decided to move on towards Frontend Engineering and am doing so eve
 - Ruby on Rails
 - PHP
 
-What I enjoy most is learning new things and applying the knowledge into apps, that work mostly as they're supposed to do. And probably tinkering with details and cool stuff ✨ a bit too much.
+### Motivation
+What I enjoy most is learning new things and applying the knowledge into apps, that work as they're supposed to do. And probably tinkering with details and cool stuff ✨ a bit too much.
 
 <!--
 **DominikFischer86/DominikFischer86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
