@@ -8,11 +8,13 @@ Early 2020 I decided to move on towards Frontend Engineering and am doing so eve
 ## My main focus is:
 - Javascript (React)
 
-## Relevant skills from all work experiences and side projects include:
-- HTML5
+## Relevant skills from all work experiences and side projects include (in descending order of experience):
 - CSS3
-- mongoDB
+- HTML5
+- Typescript
+- MongoDB
 - Ruby on Rails
+- PHP
 
 What I enjoy most is learning new things and applying the knowledge into apps, that work mostly as they're supposed to do. And probably tinkering with details and cool stuff ✨ a bit too much.
 
