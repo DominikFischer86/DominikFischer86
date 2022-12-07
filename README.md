@@ -12,12 +12,29 @@ Early 2020 I decided to move on towards Frontend Engineering and am doing so eve
 - CSS3
 - HTML5
 - Typescript
+- Svelte
 - MongoDB
-- Ruby on Rails
-- PHP
+- nodejs and express
+- PHP / Wordpress
+- Liquid (Shopify)
+
+### Other libraries used:
+- redux
+- yarn
+- lodash
+- axios
+- nivo
+- material-ui / bootstrap / tailwind
+- enzyme / testing-library/react
+- threejs
 
 ### Motivation
 What I enjoy most is learning new things and applying the knowledge into apps, that work as they're supposed to do. And probably tinkering with details and cool stuff ✨ a bit too much.
+
+### 🔭 I’m currently working on ...
+- SNEK! (React TS)
+- Chat App (React TS, Next.js)
+- Finance Tracker (React TS)
 
 <!--
 **DominikFischer86/DominikFischer86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
