@@ -29,10 +29,16 @@ Early 2020 I decided to move on towards Frontend Engineering and am doing so eve
 - threejs
 
 ### Motivation
-What I enjoy most is learning new things and applying the knowledge into apps, that work as they're supposed to do. And probably tinkering with details and cool stuff ✨ a bit too much.
+What I enjoy most is learning new things and applying the knowledge into apps, that work as they're supposed to do. 
+And probably tinkering with details and cool stuff ✨ a bit too much.
+
+### Check out a couple of my smaller projects
+
+[My Github page](https://dominikfischer86.github.io/)
+
 
 ### 🔭 I’m currently working on ...
-- SNEK! (React TS)
+- [SNEK! (React TS)](https://dominikfischer86.github.io/snek)
 - Chat App (React TS, Next.js)
 - Finance Tracker (React TS)
 
