@@ -3,18 +3,20 @@
 My name is Dominik and I'm in the web industry since 2013, when I started my apprenticeship for media design.
 Three years later after successfully graduating I moved to Berlin (Germany) to work as a webdesigner in a startup called **Websitebutler GmbH**, which later commercially released the tool **Sitejet** that had been used to create the websites all the years up to that point.
 
-Early 2020 I decided to move on towards Frontend Engineering and am doing so ever since in Düsseldorf (Germany) at **Compeon GmbH**, where I work mostly remote from home.
+Early 2020 I decided to move on towards Frontend Engineering and am doing so ever since in Düsseldorf (Germany) at **Compeon GmbH**, where I worked mostly remote from home.
+
+Since 2023 I am working on location at Check24 in Düsseldorf, helping to create the new Cruises product in the frontend with Typescript, Nextjs and gRPC/protobuf.
 
 ## My main focus is:
-- Javascript (React)
+- Javascript/Typescript (React)
 
 ### Relevant skills from all work experiences and side projects include (in descending order of experience):
 - CSS3
 - HTML5
-- Typescript
 - Svelte
 - MongoDB
 - nodejs and express
+- Nextjs
 - PHP / Wordpress
 - Liquid (Shopify)
 
