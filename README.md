@@ -41,8 +41,7 @@ And probably tinkering with details and cool stuff ✨ a bit too much.
 
 ### 🔭 I’m currently working on ...
 - [SNEK! (React TS)](https://dominikfischer86.github.io/snek)
-- Chat App (React TS, Next.js)
-- Finance Tracker (React TS)
+- Multiplayer Online Cardgame
 
 <!--
 **DominikFischer86/DominikFischer86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
