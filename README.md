@@ -5,34 +5,28 @@ Three years later after successfully graduating I moved to Berlin (Germany) to w
 
 Early 2020 I decided to move on towards Frontend Engineering and was doing so in Düsseldorf (Germany) at **Compeon GmbH**, where I worked mostly remote from home.
 
-Since 2023 I am working on location at **Check24** in Düsseldorf, helping to create a new product in the frontend with Typescript, Nextjs and gRPC/protobuf.
+From 2023 to late 2024 I was working on location at **Check24** in Düsseldorf, helping to create a new product in the frontend with Typescript, React, Nextjs and gRPC/protobuf.
+
+From September 2024 I wanted to broaden my skill pallette and started working at **add2** in Düsseldorf, an agency for digital media of all kinds with plenty of internal tools to take care of. As Fullstack Engineer I'm responsible for maintaining, supervising and advancing our tech stack and customer projects, which gives me access to more frameworks and coding styles. Here I am working with typescript, AWS services, Vue3 and Nuxt and gained insights into Wordpress and Typo3. 
 
 ## My main focus is:
-- Javascript/Typescript (React)
+- Javascript/Typescript (React, Vue)
 
 ### Relevant skills from all work experiences and side projects include (in descending order of experience):
 - CSS3
 - HTML5
 - Svelte
+- Vue / Nuxt
 - MongoDB
 - nodejs and express
 - Nextjs
 - PHP / Wordpress
+- Typo3
 - Liquid (Shopify)
-
-### Other libraries used:
-- redux
-- yarn
-- lodash
-- axios
-- nivo
-- material-ui / bootstrap / tailwind
-- enzyme / testing-library/react
-- threejs
 
 ### Motivation
 What I enjoy most is learning new things and applying the knowledge into apps, that work as they're supposed to do. 
-And probably tinkering with details and cool stuff ✨ a bit too much.
+And probably tinkering with details and cool stuff ✨ a bit too much. Aside of projects at work I also enjoy coding small games.
 
 ### Check out a couple of my smaller projects
 
@@ -40,8 +34,7 @@ And probably tinkering with details and cool stuff ✨ a bit too much.
 
 
 ### 🔭 I’m currently working on ...
-- [SNEK! (React TS)](https://dominikfischer86.github.io/snek)
-- Multiplayer Online Cardgame
+- Card game prototype
 
 <!--
 **DominikFischer86/DominikFischer86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
