@@ -7,7 +7,7 @@ Early 2020 I decided to move on towards Frontend Engineering and was doing so in
 
 From 2023 to late 2024 I was working on location at **Check24** in Düsseldorf, helping to create a new product in the frontend with Typescript, React, Nextjs and gRPC/protobuf.
 
-From September 2024 I wanted to broaden my skill pallette and started working at **add2** in Düsseldorf, an agency for digital media of all kinds with plenty of internal tools to take care of. As Fullstack Engineer I'm responsible for maintaining, supervising and advancing our tech stack and customer projects, which gives me access to more frameworks and coding styles. Here I am working with typescript, AWS services, Vue3 and Nuxt and gained insights into Wordpress and Typo3. 
+From September 2024 I wanted to broaden my skill pallet and started working at **add2** in Düsseldorf, an agency for digital media of all kinds with plenty of internal tools to take care of. As Fullstack Engineer I'm responsible for maintaining, supervising and advancing our tech stack and customer projects, which gives me access to more frameworks and coding styles. Here I am working with typescript, AWS services, Vue3 and Nuxt and gained insights into Wordpress and Typo3. 
 
 ## My main focus is:
 - Javascript/Typescript (React, Vue)
